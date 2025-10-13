@@ -54,3 +54,16 @@ footer {
   margin-top: 2rem;
 }
 Add style.css
+.btn {
+  background-color: #0078ff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background-color: #005fcc;
+}
