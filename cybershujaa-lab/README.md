@@ -35,3 +35,8 @@ These labs focus on network setup, ethical hacking basics, and security analysis
 
 **Author:** Alex Waweru  
 [LinkedIn](https://linkedin.com/in/alexwaweru) | [Portfolio](https://alexwaweru.github.io)
+## 🔒 Cybershujaa Security Lab
+Hands-on cybersecurity and network security projects conducted during my Cybershujaa training.  
+👉 [View Project Folder](./cybershujaa-lab/)
+
+
