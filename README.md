@@ -64,7 +64,7 @@ Cisco Packet Tracer · Kali Linux · Wireshark · Nmap · VirtualBox
 ## 📞 Contact Me
 - 📧 **Email:** [alexwaweru@example.com](mailto:alexwaweru@student.cuk.ac.ke)  
 - 🔗 **LinkedIn:** [linkedin.com/in/alexwaweru](https://linkedin.com/in/alexweru)  
-- 💻 **GitHub:** [github.com/alexwaweru](https://github.com/alexwaweru)
+- 💻 **GitHub:** https://weru198.github.io/lexwaweru250.github.io/
 
 ---
 
