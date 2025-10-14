@@ -1,69 +1,108 @@
+/* ====== Global Styles ====== */
 body {
-  font-family: 'Segoe UI', Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin: 0;
-  background-color: #f5f5f5;
-  color: #222;
+  padding: 0;
+  background: #f9fafb;
+  color: #333;
+  line-height: 1.6;
 }
 
 header {
-  background: #0078ff;
+  background: linear-gradient(90deg, #0078d7, #00bcd4);
   color: white;
+  padding: 60px 0;
   text-align: center;
-  padding: 2rem 1rem;
+}
+
+header img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-bottom: 10px;
 }
 
 header h1 {
-  margin-bottom: 0.3rem;
+  font-size: 2.5rem;
+  margin: 10px 0;
 }
 
-nav a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
-  font-weight: 500;
+header p {
+  font-size: 1.1rem;
 }
 
+/* ====== Sections ====== */
 section {
   max-width: 900px;
-  margin: 2rem auto;
-  background: white;
-  padding: 1.5rem;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin: 60px auto;
+  padding: 0 20px;
 }
 
 h2 {
-  color: #0078ff;
+  color: #0078d7;
+  border-bottom: 3px solid #00bcd4;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
 }
 
+/* ====== Project Cards ====== */
 .project {
-  margin-bottom: 1rem;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 25px;
+  transition: transform 0.3s;
+}
+
+.project:hover {
+  transform: translateY(-5px);
+}
+
+.project h3 {
+  color: #0078d7;
+  margin-top: 0;
 }
 
 .project a {
-  color: #0078ff;
+  color: #00bcd4;
   text-decoration: none;
   font-weight: bold;
 }
 
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #0078ff;
-  color: white;
-  margin-top: 2rem;
-}
-Add style.css
-.btn {
-  background-color: #0078ff;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: background 0.3s;
+.project a:hover {
+  text-decoration: underline;
 }
 
-.btn:hover {
-  background-color: #005fcc;
+/* ====== Contact ====== */
+#contact {
+  text-align: center;
+  background: #0078d7;
+  color: white;
+  padding: 40px 0;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
+
+#contact a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+
+.resume-btn {
+  display: inline-block;
+  background: white;
+  color: #0078d7;
+  padding: 10px 20px;
+  border-radius: 8px;
+  margin-top: 15px;
+  font-weight: 600;
+}
+
+
