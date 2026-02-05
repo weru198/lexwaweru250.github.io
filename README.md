@@ -1,28 +1,28 @@
-🌐 Alex Waweru – Web Portfolio:
+#🌐 Alex Waweru – Web Portfolio:
 
 This repository contains my personal web portfolio, showcasing selected projects I have built as part of my IT diploma, personal practice, and real-world simulations. 
 The portfolio highlights my skills in web development, backend systems, cybersecurity fundamentals, and network & cloud security awareness.
 
-👤 About Me:
+##👤 About Me:
 
 I am an IT graduate and aspiring full-stack developer with a strong interest in secure system design, backend development, and networked applications.
 I focus on building practical, user-focused, and production-minded solutions, with attention to security and maintainability.
 
-🧰 Tech Stack:
+##🧰 Tech Stack:
 
-Frontend
-HTML5
-CSS3
-JavaScript
+##Frontend
+1.HTML5
+2.CSS3
+3.JavaScript
 
-Backend & Databases
-PHP
-MySQL
-XAMPP (Apache, PHP, MySQL)
+##Backend & Databases
+1.PHP
+2.MySQL
+3.XAMPP (Apache, PHP, MySQL)
 
-Version Control
-Git
-GitHub
+##Version Control
+1.Git
+2.GitHub
 
 🔐 Cybersecurity, Network & Cloud Awareness
 
