@@ -1,4 +1,4 @@
-# 🌐 Evans – Web Portfolio
+# 🌐 Alex waweru – Web Portfolio
 
 This repository contains my personal web portfolio, showcasing selected projects I have built as part of my IT diploma, personal practice, and real-world simulations.The portfolio highlights my skills in web development, backend systems, cybersecurity fundamentals, and network & cloud security awareness.
 
