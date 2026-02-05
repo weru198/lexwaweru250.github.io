@@ -1,12 +1,15 @@
-🌐 Alex Waweru – Web Portfolio
+🌐 Alex Waweru – Web Portfolio:
+
 This repository contains my personal web portfolio, showcasing selected projects I have built as part of my IT diploma, personal practice, and real-world simulations. 
 The portfolio highlights my skills in web development, backend systems, cybersecurity fundamentals, and network & cloud security awareness.
 
-👤 About Me
+👤 About Me:
+
 I am an IT graduate and aspiring full-stack developer with a strong interest in secure system design, backend development, and networked applications.
 I focus on building practical, user-focused, and production-minded solutions, with attention to security and maintainability.
 
-🧰 Tech Stack
+🧰 Tech Stack:
+
 Frontend
 HTML5
 CSS3
@@ -24,56 +27,61 @@ GitHub
 🔐 Cybersecurity, Network & Cloud Awareness
 
 Security principles applied across projects include:
-Secure password storage using hashing
-Session-based authentication and access control
-Input validation and basic error handling
-Separation of configuration and secrets from source code
-Awareness of common web vulnerabilities (e.g. unauthorized access, weak credentials)
+1.Secure password storage using hashing
+2.Session-based authentication and access control
+3.Input validation and basic error handling
+4.Separation of configuration and secrets from source code
+5.Awareness of common web vulnerabilities (e.g. unauthorized access, weak credentials)
 
 Network & Cloud Security Concepts (Foundational):
-Client–server architecture
-Localhost and server-based deployments
-Understanding of ports, services, and access control
-Awareness of secure deployment practices in cloud-hosted environments
-Basic understanding of firewalls, authentication boundaries, and least-privilege access
+1.Client–server architecture
+2.Localhost and server-based deployments
+3.Understanding of ports, services, and access control
+4.Awareness of secure deployment practices in cloud-hosted environments
+5.Basic understanding of firewalls, authentication boundaries, and least-privilege access
 
 These concepts guide how projects are structured and how future improvements would be implemented.
-📂 Projects Featured
-1️⃣ Afya Smart
+
+
+📂 Projects Featured:
+1️⃣ Afya Smart.
 Description:
 A health management system prototype designed to manage users, services, and basic workflows in a healthcare environment.
 
 Tech Used:
 PHP, MySQL, HTML, CSS
-Focus Areas:
-Data handling
-System organization
-Real-world use-case modeling
 
-2️⃣ Donor Perfect
+Focus Areas:
+1.Data handling
+2.System organization
+3.Real-world use-case modeling
+
+2️⃣ Donor Perfect.
 Description:
 A donation and campaign management system focused on tracking donors, contributions, and campaigns.
 
 Tech Used:
 PHP, MySQL, HTML, CSS
-Focus Areas:
-CRUD operations
-Database relationships
-Practical backend logic
 
-3️⃣ Simple Auth Dashboard
+Focus Areas:
+1.CRUD operations
+2.Database relationships
+3.Practical backend logic
+
+3️⃣ Simple Auth Dashboard.
 
 Description:
 A secure user authentication system with registration, login, password hashing, and a protected dashboard accessible only to authenticated users.
 
 Tech Used:
 PHP, MySQL, HTML, CSS
+
 Key Features:
-User registration and login
-Password hashing (secure storage)
-Session-based authentication
-Protected routes (dashboard)
-Logout functionality
+1.User registration and login
+2.Password hashing (secure storage)
+3.Session-based authentication
+4.Protected routes (dashboard)
+5.Logout functionality
 
 This project demonstrates my understanding of authentication workflows and basic application security.
 📄 Resume
