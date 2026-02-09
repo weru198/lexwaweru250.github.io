@@ -1,4 +1,4 @@
-# 🌐 Evans waweru – Web Portfolio
+# 🌐 Alex waweru – Web Portfolio
 
 This repository contains my personal web portfolio, showcasing selected projects I have built as part of my IT diploma, personal practice, and real-world simulations.The portfolio highlights my skills in web development, backend systems, cybersecurity fundamentals, and network & cloud security awareness.
 
@@ -78,6 +78,6 @@ My resume is included as a downloadable PDF within the portfolio.
 
 GitHub: [https://github.com/weru198]
 
-
+Linkedin:[https://www.linkedin.com/in/alexweru/]
 
 Email: [wawerue688@gmail.com]
